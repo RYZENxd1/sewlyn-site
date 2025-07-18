@@ -95,7 +95,8 @@ export default function Footer() {
         </div>
         <div className="mt-12 border-t border-gray-200 pt-6">
           <p className="text-center text-xs text-gray-600">
-            &copy; {new Date().getFullYear()} Selwyn Landscape & Contractors Ltd. All rights reserved.
+            &copy; {new Date().getFullYear()} Powered by <a href="https://digitroncx.com/">DigitronCX</a>.
+
           </p>
         </div>
       </div>
